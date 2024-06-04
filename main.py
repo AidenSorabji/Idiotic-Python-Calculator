@@ -1,7 +1,3 @@
-# ------------------------
-# | WikiPy - By SpaceN64 |
-# ------------------------
-
 # Classifying
 pysummary = ["pysum", "PySum", "Pysum"]
 exit = ["Exit", "exit", "Exit()", "exit()", "Leave", "leave", "Leave()", "leave()"]
